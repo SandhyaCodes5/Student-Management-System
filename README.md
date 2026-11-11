@@ -93,13 +93,13 @@ The application provides the following menu options:
 ## Application Screenshots
 
 ### 1. Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/screenshots_sms/main-menu.png)
 
 ### 2. View Students
-![View Students](screenshots/view-students.png)
+![View Students](screenshots/screenshots_sms/view-students.png)
 
 ### 3. Update Student
-![Update Student](screenshots/update-student.png)
+![Update Student](screenshots/screenshots_sms/update-student.png)
 ## Author
 
 **Sandhya Bharti**
