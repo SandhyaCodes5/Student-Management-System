@@ -90,6 +90,16 @@ The application provides the following menu options:
 - Input validation
 - Menu-driven Java applications
 
+## Application Screenshots
+
+### 1. Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### 2. View Students
+![View Students](screenshots/view-students.png)
+
+### 3. Update Student
+![Update Student](screenshots/update-student.png)
 ## Author
 
 **Sandhya Bharti**
